@@ -1,5 +1,5 @@
 # CS---ChildeProcesses
-Example of actions with Childe Processes 
+Example of managment with Child Processes 
 
 Using:
 - C#
