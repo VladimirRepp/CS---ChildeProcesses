@@ -1,0 +1,10 @@
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\bin\Debug\ChildProject1.exe.config
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\bin\Debug\ChildProject1.exe
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\bin\Debug\ChildProject1.pdb
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\obj\Debug\ChildProject1.csproj.AssemblyReference.cache
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\obj\Debug\ChildProject1.Form1.resources
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\obj\Debug\ChildProject1.Properties.Resources.resources
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\obj\Debug\ChildProject1.csproj.GenerateResource.cache
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\obj\Debug\ChildProject1.csproj.CoreCompileInputs.cache
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\obj\Debug\ChildProject1.exe
+D:\Системное программирование\2 Процессы\Sample_4\ChildProject1\obj\Debug\ChildProject1.pdb
